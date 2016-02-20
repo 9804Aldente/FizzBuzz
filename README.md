@@ -1,1 +1,1 @@
-# FizzBuzz-on-C-
+# FizzBuzz
